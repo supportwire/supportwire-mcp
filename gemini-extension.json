@@ -1,0 +1,9 @@
+{
+  "name": "supportwire",
+  "version": "1.0.0",
+  "mcpServers": {
+    "supportwire": {
+      "httpUrl": "https://mcp.supportwire.ai/mcp"
+    }
+  }
+}
